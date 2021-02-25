@@ -1,11 +1,10 @@
 # Welcome to my blog
 
-I'm glad :smiley: you are here. I plan to talk about the following:
+I'm glad you are here. I plan to talk about the following:
 
-1) Documentation
-2) Training Courses
-3) Blockchain
-
+1. Documentation
+2. Training Courses
+3. Blockchain
 
 ### 1. Documentation
 It appears that you can create a separate branch within an existing repository in order to display that repository's documentation.
@@ -19,6 +18,6 @@ There are numerous courses to be taken, including:
 * Docker / Kubernetes
 * Solidity
 
-### 3. Blcokchain
+### 3. Blockchain
 There appear to be a number of blockchains that are useful for actually processing transactions beyond the functionatlity of a
 simple ledger as offered by BitCoin, for example **Ethereuem**, **Ripple (XRP)**, and **Diem**.
